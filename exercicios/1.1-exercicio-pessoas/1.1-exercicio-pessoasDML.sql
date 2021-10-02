@@ -15,7 +15,7 @@ VALUES (1,'s.santos@email.com'),
 GO
 
 INSERT INTO CNH (idPessoa, numeroCNH) 
-VALUES (1,'1234'), (2,'4334');
+VALUES (1,'6564'), (2,'324')
 GO
 
 DELETE FROM PESSOA
